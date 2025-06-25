@@ -27,7 +27,7 @@ INSERT INTO Fines (LoanID, StaffID, Amount, IssuedDate, Paid) VALUES
 (1, 2, 25.00, '2025-06-20', FALSE);
 
 -- Insert Book with default status (Available)
-INSERT INTO Books (Title, ISBN) VALUES ('Clean Code', '9780132350884');
+INSERT INTO Books (Title, ISBN) VALUES ('The Great Gatsby', '9780132350884');
 
 -- Update a book status
 UPDATE Books 
@@ -38,4 +38,7 @@ WHERE BookID = 3;
 UPDATE Loans 
 SET ReturnDate = '2024-02-12' 
 WHERE LoanID = 1;
+
+-- Delete a reservation
+DELETE FROM Reservations WHERE ReservationID = 1;
 
