@@ -2,7 +2,7 @@
 # Task 2: Data Insertion and Handling Nulls
 
 ## Objective
-Practice using DML (Data Manipulation Language) commands in SQL — focusing on 'INSERT,'UPDATE','DELETE', and handling 'NULL' and 'DEFAULT'.
+Practice using DML (Data Manipulation Language) commands in SQL focusing on 'INSERT,'UPDATE','DELETE', and handling 'NULL' and 'DEFAULT'.
 
 ## Contents
 1. 'task_2_data.sql': SQL script with all commands
