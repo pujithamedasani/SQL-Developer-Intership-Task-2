@@ -1,5 +1,12 @@
 DEFAULT Constraint:
   A DEFAULT constraint is used in SQL to assign a default value to a column when no value is provided during an INSERT operation.
+  
+Syntax:
+CREATE TABLE table_name (
+  column1 datatype DEFAULT default_value,
+  column2 datatype DEFAULT default_value,
+  ...
+);
 
 Why is it useful:
   a.It ensures that the columns have valid data even if the user skips them.
