@@ -14,9 +14,10 @@ Practice using DML (Data Manipulation Language) commands in SQL focusing on 'INS
 4. 'insert_data.sql' : Script of Insertion of data into tables.
 5. 'update_data.sql' : Script of Updating the records in tablE using 'WHERE'.
 6. 'delete_data.sql' : Script of Deleting the records in table using 'WHERE'.
+7. Outputs : This folder contains the screenshots for the scripts.
   
 ## Tools and Resources Used
-- One compiler , Gfg , W3 schools
+- One compiler , GeeksforGeeks , W3 schools
 
 ## Topics Covered
 - NULL vs DEFAULT
